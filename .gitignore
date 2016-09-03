@@ -1,9 +1,9 @@
 # General ignores
-target/
+/target/
 *~
 
 # IntelliJ ignores
-.idea/*
+/.idea/
 *.iml
 
 # Mac OS X
